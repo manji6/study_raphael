@@ -1,0 +1,9 @@
+[submodule "raphael"]
+	path = raphael
+	url = git://github.com/DmitryBaranovskiy/raphael.git
+[submodule "g.raphael"]
+	path = g.raphael
+	url = git://github.com/DmitryBaranovskiy/g.raphael.git
+[submodule "raphael-radar"]
+	path = raphael-radar
+	url = git://github.com/manji6/raphael-radar.git
